@@ -43,7 +43,7 @@ function draw() {
   //make the background move
   back.velocityX = -2;
   
-  if(back.x < 200){
+  if(back.x < 300){
     back.x = back.width/2;
   }
   
